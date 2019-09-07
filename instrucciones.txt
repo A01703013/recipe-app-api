@@ -1,0 +1,9 @@
+1. Clonar el repositorio.
+
+2. Ingresar el comando 'cd carpeta'. Donde carpeta es el nombre de la carpeta clonada.
+
+3. Asegurarte de tener docker descargado y prendido.
+
+4. Ejecturar el comando 'docker-compose up'.
+
+5. Abrir el buscador e insertar en la URL 'localhost:9000'.
